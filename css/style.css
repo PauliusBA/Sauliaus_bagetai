@@ -987,8 +987,8 @@ textarea:focus {
 }
 
 #footer .footer-container {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 #footer .copyright-container {
@@ -1269,8 +1269,8 @@ Responsive Styles
   }
   /*** Footer ***/
   #footer .footer-container {
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
   #footer .footer-links {
     width: 100%;
