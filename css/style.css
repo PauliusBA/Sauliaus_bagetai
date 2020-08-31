@@ -1136,7 +1136,7 @@ Responsive Styles
   }
   /*** iPhone Screens ***/
   #iphone-screens {
-    padding: 120px 0 620px;
+    padding: 120px 120px;
   }
   #iphone-screens .images-list li {
     position: absolute;
