@@ -948,6 +948,13 @@ textarea:focus {
   display: block;
 }
 
+.gallery .carousel-inner img {
+  max-height: 700px;
+  max-width: 800px;
+}
+.gallery.container {
+  max-width: 700px;
+}
 /*****************************************************
 *** Subscribe ***
 *****************************************************/
@@ -1154,11 +1161,6 @@ Responsive Styles
   #iphone-screens .images-list li.main-img {
     width: 295px;
     margin-left: -148px;
-  }
-
-  .gallery .carousel-inner img {
-    max-height: 700px;
-    max-width: 800px;
   }
 
   /*** Customers ***/
