@@ -189,13 +189,6 @@ textarea:focus {
   margin: 0 auto;
 }
 
-#ready-to-buy .form-group .btn,
-#subscribe .form-group .btn {
-  position: absolute;
-  top: 4px;
-  right: 4px;
-}
-
 /*****************************************************
 *** Main Nav ***
 *****************************************************/
@@ -963,8 +956,8 @@ textarea:focus {
 }
 
 #subscribe .btn {
-  padding-left: 34px;
-  padding-right: 34px;
+  padding-left: 80px;
+  padding-right: 80px;
 }
 
 #subscribe .promise {
